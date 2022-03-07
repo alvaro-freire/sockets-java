@@ -56,3 +56,8 @@ objeto Persona y se lo envía de vuelta al cliente. Visualiza los datos
 del objeto Persona tanto en el programa cliente cuando los envía y
 los recibe como en el programa servidor cuando los recibe y los envía
 modificados
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
